@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 
 
-function blog() {
+function Blog() {
     return (
         <div>
             <Layout>
@@ -15,4 +15,4 @@ function blog() {
     )
 }
 
-export default blog
+export default Blog
