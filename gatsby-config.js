@@ -5,6 +5,10 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: 'Front-End Bootcamp',
+    author: 'Rifqi Rosyidi'
+  },
   /* Your site config here */
   plugins: [`gatsby-plugin-sass`],
 }

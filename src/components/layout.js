@@ -4,7 +4,7 @@ import Footer from '../components/footer'
 import '../styles/index.scss'
 import layoutStyles from './layout.module.scss'
 
-function layout(props) {
+function Layout(props) {
     return (
         <div className={ layoutStyles.container }>
             <div className={ layoutStyles.content }>
@@ -16,4 +16,4 @@ function layout(props) {
     )
 }
 
-export default layout
+export default Layout
