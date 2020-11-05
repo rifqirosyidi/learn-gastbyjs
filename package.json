@@ -19,6 +19,7 @@
     "gatsby-plugin-sharp": "^2.7.1",
     "gatsby-remark-images": "^3.4.1",
     "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-contentful": "^3.1.2",
     "gatsby-source-filesystem": "^2.4.0",
     "gatsby-transformer-remark": "^2.9.1",
     "node-sass": "^4.14.1",
@@ -27,6 +28,7 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
+    "dotenv": "^8.2.0",
     "prettier": "2.1.2"
   },
   "repository": {
