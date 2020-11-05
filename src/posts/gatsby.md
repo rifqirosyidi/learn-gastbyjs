@@ -5,6 +5,8 @@ date: "03-11-2020"
 
 I just launch new bootcamp!
 
+![Pulsar](./pulsar.jpg)
+
 ## Topics Covered
 
 1. Gatsby
