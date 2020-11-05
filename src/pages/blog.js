@@ -27,7 +27,7 @@ function Blog() {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, nobis omnis! Perspiciatis fugit </p>
                 
                 <ol>
-                    {data.allMarkdownRemark.edges.map((edge) => {
+                    { data.allMarkdownRemark.edges.map((edge) => {
                         return (
                             <li>
                                 <h2>{ edge.node.frontmatter.title }</h2>
